@@ -1,1 +1,1 @@
-to automate patient booking
+To automate patient booking
